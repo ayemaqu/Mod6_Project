@@ -92,6 +92,7 @@ Transform raw collision records into actionable insights that can help Vision Ze
 
 **Pedestrian injury risk varies substantially by time of day.**
 
+![Injuries by Hour](images/ped_inj_hour.png)
 ### Hourly Trends
 
 * **1–5 AM:** Low injuries (200–400 per hour)
@@ -105,6 +106,8 @@ The *evening commute* (4–6 PM) is the most dangerous period citywide. This is 
 
 ### Binned Time-of-Day Patterns
 
+![Hourly Bins](images/bins.png)
+
 * **Highest injury counts:** Midday (10–15) and Evening (16–19)
 * **Moderate risk:** Morning (6–9) and Night (20–23)
 * **Lowest risk:** Overnight (0–5)
@@ -115,6 +118,8 @@ Focus enforcement and safety operations during peak evening hours.
 
 
 ## Borough × Time Risk Patterns
+
+![Borough x Time Heatmap](images/heatmap.png)
 
 The heatmap shows strong spatial and temporal differences across boroughs.
 
