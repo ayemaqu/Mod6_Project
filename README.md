@@ -141,6 +141,8 @@ The heatmap shows strong spatial and temporal differences across boroughs.
 
 ## Vehicle Type Patterns
 
+![Vehicle Heatmap](images/heatmap_v_b.png)
+
 ### 1. Sedans and SUVs account for the majority of pedestrian injuries
 
 Examples:
@@ -164,6 +166,8 @@ Interventions should be borough-specific.
 
 
 ## Contributing Factors
+
+![Behavior](images/topcontributing.png)
 
 Pedestrian injuries are overwhelmingly driven by **preventable driver behaviors**.
 
@@ -194,6 +198,8 @@ Pedestrian injuries are overwhelmingly driven by **preventable driver behaviors*
 
 
 ## Weekday vs. Weekend Patterns
+
+![Weekday Patterns](images/weekda.png)
 
 * **Wednesday–Friday**: Highest injury counts (> 5,400 each)
 * **Friday**: Highest-risk day overall
