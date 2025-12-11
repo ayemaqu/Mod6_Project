@@ -397,3 +397,45 @@ The interface is intentionally simple for non-technical users.
    * High vs. low risk indicator
 4. Adjust inputs to explore different scenarios
 
+Here is the updated directory structure including the corrected contents of the `models/` and `notebooks/` folders.
+
+You can paste this directly into your README.
+
+---
+
+## Project Structure
+
+```
+.
+├── Data/
+│   ├── nybb_25d/
+│   ├── .gitignore
+│   └── Motor_Vehicle_Collisions_-_Crashes_20251209.csv
+│
+├── app/
+│   ├── .venv/
+│   ├── app.py
+│   └── calibrated_model.pkl
+│
+├── images/
+│   ├── bins.png
+│   ├── heatmap.png
+│   ├── heatmap_v_b.png
+│   ├── ped_inj_hour.png
+│   ├── topcontributing.png
+│   └── weekda.png
+│
+├── models/
+│   ├── modelA.ipynb
+│   ├── modelB.ipynb
+│   └── modelC.ipynb
+│
+├── notebooks/
+│   ├── clean.ipynb
+│   └── eda.ipynb
+│
+├── README.md
+└── requirements.txt
+```
+
+
