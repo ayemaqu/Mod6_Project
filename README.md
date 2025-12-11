@@ -45,10 +45,10 @@ This project supports **NYC Vision Zero**, the city’s multi-agency initiative 
 **Primary Stakeholder:** NYC Vision Zero Initiative
 Vision Zero uses crash data to understand where injuries happen and to guide decisions about infrastructure improvements, targeted enforcement, and pedestrian-safety programs. Their mission is to make streets safer for people who walk, bike, or use micromobility.
 
-**Business Question:**
+##Business Question##:
 **What factors increase the likelihood that a pedestrian will be injured in a crash, and how can Vision Zero target these risks?**
 
-**Project Purpose:**
+##Project Purpose##:
 Transform raw collision records into actionable insights that can help Vision Zero predict when and where pedestrian injuries are more likely, enabling smarter and more timely safety interventions.
 
 
