@@ -35,7 +35,7 @@
 * [How to Use It](#how-to-use-it)
 
 ## PM board
-- https://www.notion.so/2c4bea2d956480f3b248ee6d00b69f3a?v=2c4bea2d9564808784c4000cc71a9540&source=copy_link
+[Link to Notion Page](https://www.notion.so/2c4bea2d956480f3b248ee6d00b69f3a?v=2c4bea2d9564808784c4000cc71a9540&source=copy_link)
 
 ## Overview
 
@@ -57,8 +57,7 @@ Transform raw collision records into actionable insights that can help Vision Ze
 
 ## Dataset Description
 
-**Source:** NYPD Motor Vehicle Collisions – Crashes
-**Link:** [https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+**Source:** [NYPD Motor Vehicle Collisions – Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 
 ### Key Fields
 
